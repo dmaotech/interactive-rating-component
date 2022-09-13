@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Soon]()
+- Solution URL: [https://dmaotech-interactive-rating-component.netlify.app/](https://dmaotech-interactive-rating-component.netlify.app/)
 - Live Site URL: [Soon]()
 
 ## Details
